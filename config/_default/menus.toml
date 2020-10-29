@@ -3,30 +3,32 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
+# themeのpartial部品を編集しなくても、ここで設定した項目で自動的にメニューバーを生成される。
+
 [[main]]
   name = "Home"
   url = "#about"
   weight = 10
 
 [[main]]
-  name = "Posts"
-  url = "#posts"
+  name = "Publication"
+  url = "/publication"
   weight = 20
 
 [[main]]
-  name = "Projects"
-  url = "#projects"
+  name = "Talk"
+  url = "/talk"
   weight = 30
 
 [[main]]
-  name = "Publications"
-  url = "#featured"
+  name = "Teaching"
+  url = "/teaching"
   weight = 40
 
 [[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 60
+  name = "Accomplishment"
+  url = "/accomplishment"
+  weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
