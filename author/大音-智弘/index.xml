@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大音 智弘 | Tomohiro Ooto</title>
-    <link>https://oooto.github.io/author/%E5%A4%A7%E9%9F%B3-%E6%99%BA%E5%BC%98/</link>
-      <atom:link href="https://oooto.github.io/author/%E5%A4%A7%E9%9F%B3-%E6%99%BA%E5%BC%98/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://oooto.github.io/portfolio/author/%E5%A4%A7%E9%9F%B3-%E6%99%BA%E5%BC%98/</link>
+      <atom:link href="https://oooto.github.io/portfolio/author/%E5%A4%A7%E9%9F%B3-%E6%99%BA%E5%BC%98/index.xml" rel="self" type="application/rss+xml" />
     <description>大音 智弘</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>ooto.tomohiro@gmail.com</copyright>
     <image>
-      <url>https://oooto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://oooto.github.io/portfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>大音 智弘</title>
-      <link>https://oooto.github.io/author/%E5%A4%A7%E9%9F%B3-%E6%99%BA%E5%BC%98/</link>
+      <link>https://oooto.github.io/portfolio/author/%E5%A4%A7%E9%9F%B3-%E6%99%BA%E5%BC%98/</link>
     </image>
     
   </channel>

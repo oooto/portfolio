@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>TomohiroO Ooto | Tomohiro Ooto</title>
-    <link>https://oooto.github.io/author/tomohiroo-ooto/</link>
-      <atom:link href="https://oooto.github.io/author/tomohiroo-ooto/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://oooto.github.io/portfolio/author/tomohiroo-ooto/</link>
+      <atom:link href="https://oooto.github.io/portfolio/author/tomohiroo-ooto/index.xml" rel="self" type="application/rss+xml" />
     <description>TomohiroO Ooto</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>ooto.tomohiro@gmail.com</copyright><lastBuildDate>Mon, 20 Apr 2015 16:30:00 +0900</lastBuildDate>
     <image>
-      <url>https://oooto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <url>https://oooto.github.io/portfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>TomohiroO Ooto</title>
-      <link>https://oooto.github.io/author/tomohiroo-ooto/</link>
+      <link>https://oooto.github.io/portfolio/author/tomohiroo-ooto/</link>
     </image>
     
     <item>
       <title>Mahlerによる$p$進数の分類とautomatic数</title>
-      <link>https://oooto.github.io/talk/201504/</link>
+      <link>https://oooto.github.io/portfolio/talk/201504/</link>
       <pubDate>Mon, 20 Apr 2015 16:30:00 +0900</pubDate>
-      <guid>https://oooto.github.io/talk/201504/</guid>
+      <guid>https://oooto.github.io/portfolio/talk/201504/</guid>
       <description></description>
     </item>
     
