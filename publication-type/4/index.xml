@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>4 | Tomohiro Ooto</title>
+    <link>https://oooto.github.io/publication-type/4/</link>
+      <atom:link href="https://oooto.github.io/publication-type/4/index.xml" rel="self" type="application/rss+xml" />
+    <description>4</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ja</language><copyright>ooto.tomohiro@gmail.com</copyright><lastBuildDate>Thu, 01 Nov 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oooto.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>4</title>
+      <link>https://oooto.github.io/publication-type/4/</link>
+    </image>
+    
+    <item>
+      <title>Construction of $T$-numbers in positive characteristic</title>
+      <link>https://oooto.github.io/publication/const-t-number/</link>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/publication/const-t-number/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diophantine exponents for formal power series over a finite field</title>
+      <link>https://oooto.github.io/publication/dio-exp-formal/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/publication/dio-exp-formal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A transcendence criterion with $p$-adic continued fractions</title>
+      <link>https://oooto.github.io/publication/schneider-cf/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/publication/schneider-cf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>有限体係数のローラン級数に対するDiophantine exponentの性質について</title>
+      <link>https://oooto.github.io/publication/finite-dio-exp/</link>
+      <pubDate>Thu, 10 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/publication/finite-dio-exp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>$p$進数の分類について</title>
+      <link>https://oooto.github.io/publication/p-adic-class/</link>
+      <pubDate>Mon, 16 Feb 2015 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/publication/p-adic-class/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
