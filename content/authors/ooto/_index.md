@@ -45,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'ooto.tomohiro@gmail.com'
+- icon: linkedin
+  icon_pack: fas
+  link: https://www.linkedin.com/in/oooto/
 - icon: github
   icon_pack: fab
   link: https://github.com/oooto
