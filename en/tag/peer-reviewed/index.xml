@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>peer-reviewed | Tomohiro Ooto</title>
+    <link>https://oooto.github.io/portfolio/en/tag/peer-reviewed/</link>
+      <atom:link href="https://oooto.github.io/portfolio/en/tag/peer-reviewed/index.xml" rel="self" type="application/rss+xml" />
+    <description>peer-reviewed</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>ooto.tomohiro@gmail.com</copyright><lastBuildDate>Mon, 16 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://oooto.github.io/portfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>peer-reviewed</title>
+      <link>https://oooto.github.io/portfolio/en/tag/peer-reviewed/</link>
+    </image>
+    
+    <item>
+      <title>On quadratic approximation for hyperquadratic continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/publication/quad-app-hyper-cf/</link>
+      <pubDate>Mon, 16 Mar 2020 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/publication/quad-app-hyper-cf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The existence of $T$-numbers in positive characteristic</title>
+      <link>https://oooto.github.io/portfolio/en/publication/ext-t-number/</link>
+      <pubDate>Fri, 17 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/publication/ext-t-number/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>On Diophantine exponents for the Laurent series over a finite field </title>
+      <link>https://oooto.github.io/portfolio/en/publication/dio-exp-positive/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/publication/dio-exp-positive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic approximation in $\mathbb{F}_q((T^{-1}))$</title>
+      <link>https://oooto.github.io/portfolio/en/publication/quad-app/</link>
+      <pubDate>Fri, 03 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/publication/quad-app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcendental $p$-adic continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/publication/p-adic-cf/</link>
+      <pubDate>Wed, 15 Feb 2017 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/publication/p-adic-cf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahler&#39;s classification and a certain class of $p$-adic numbers</title>
+      <link>https://oooto.github.io/portfolio/en/publication/mahlers-class/</link>
+      <pubDate>Fri, 01 Jul 2016 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/publication/mahlers-class/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

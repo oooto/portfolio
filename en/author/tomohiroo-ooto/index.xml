@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TomohiroO Ooto | Tomohiro Ooto</title>
+    <link>https://oooto.github.io/portfolio/en/author/tomohiroo-ooto/</link>
+      <atom:link href="https://oooto.github.io/portfolio/en/author/tomohiroo-ooto/index.xml" rel="self" type="application/rss+xml" />
+    <description>TomohiroO Ooto</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>ooto.tomohiro@gmail.com</copyright><lastBuildDate>Mon, 20 Apr 2015 16:30:00 +0900</lastBuildDate>
+    <image>
+      <url>https://oooto.github.io/portfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>TomohiroO Ooto</title>
+      <link>https://oooto.github.io/portfolio/en/author/tomohiroo-ooto/</link>
+    </image>
+    
+    <item>
+      <title>Mahler&#39;s classification for $p$-adic numbers and automatic numbers</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201504/</link>
+      <pubDate>Mon, 20 Apr 2015 16:30:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201504/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Talks | Tomohiro Ooto</title>
+    <link>https://oooto.github.io/portfolio/en/talk/</link>
+      <atom:link href="https://oooto.github.io/portfolio/en/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Talks</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>ooto.tomohiro@gmail.com</copyright><lastBuildDate>Thu, 07 Mar 2019 10:00:00 +0900</lastBuildDate>
+    <image>
+      <url>https://oooto.github.io/portfolio/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Talks</title>
+      <link>https://oooto.github.io/portfolio/en/talk/</link>
+    </image>
+    
+    <item>
+      <title>Diophantine exponents for hyperquadratic continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201903/</link>
+      <pubDate>Thu, 07 Mar 2019 10:00:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201903/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About the existence of $T$-number in function fields</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201802/</link>
+      <pubDate>Mon, 12 Feb 2018 10:30:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201802/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About the existence of $T$-number in positive characteristic</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201801/</link>
+      <pubDate>Sat, 27 Jan 2018 14:30:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Construction of $T$-numbers in positive characteristic</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201710/</link>
+      <pubDate>Tue, 31 Oct 2017 10:55:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201710/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The existence of $T$-number for a Laurent series over finite fields</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201707/</link>
+      <pubDate>Sat, 15 Jul 2017 15:40:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201707/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arithmetical properties of the values of power series in several variables</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201701/</link>
+      <pubDate>Sun, 08 Jan 2017 16:05:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201701/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transcendence of special values of power series in several variables</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201610/</link>
+      <pubDate>Wed, 02 Nov 2016 11:30:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201610/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Properties of Diophantine exponents for formal Laurent series over a finite field</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201603/</link>
+      <pubDate>Fri, 18 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201603/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diophantine approximations for a Laurent series over a finite field</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201602/</link>
+      <pubDate>Tue, 01 Mar 2016 14:50:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201602/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diophantine exponents for formal power series over a finite field</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201511/</link>
+      <pubDate>Wed, 04 Nov 2015 15:40:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201511/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahler&#39;s classification and a certain class of $p$-adic numbers</title>
+      <link>https://oooto.github.io/portfolio/en/talk/2015072/</link>
+      <pubDate>Thu, 23 Jul 2015 16:00:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/2015072/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Diophantine approximations over a function field</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201507/</link>
+      <pubDate>Sun, 19 Jul 2015 15:00:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201507/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mahler&#39;s classification for $p$-adic numbers and automatic numbers</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201504/</link>
+      <pubDate>Mon, 20 Apr 2015 16:30:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201504/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic approximation in the field of formal Laurent series</title>
+      <link>https://oooto.github.io/portfolio/en/talk/2015032/</link>
+      <pubDate>Mon, 23 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/2015032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic approximation of continued fractions with low complexity in $\mathbb{F}_q((T^{-1}))$</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201503/</link>
+      <pubDate>Thu, 05 Mar 2015 14:40:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201503/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About a classification for $p$-adic numbers</title>
+      <link>https://oooto.github.io/portfolio/en/talk/2015022/</link>
+      <pubDate>Tue, 17 Feb 2015 16:00:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/2015022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quadratic approximation in $\mathbb{F}_q((T^{-1}))$</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201502/</link>
+      <pubDate>Tue, 03 Feb 2015 16:00:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201502/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A transcendence criterion with $p$-adic continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201410/</link>
+      <pubDate>Fri, 31 Oct 2014 09:10:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201410/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A criterion for transcendence using continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201407/</link>
+      <pubDate>Mon, 21 Jul 2014 17:00:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201407/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About a transcendence for $p$-adic number using continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/talk/2014032/</link>
+      <pubDate>Wed, 26 Mar 2014 11:10:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/2014032/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A certain class of transcendental $p$-adic continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201403/</link>
+      <pubDate>Sat, 08 Mar 2014 10:40:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201403/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A criterion of transcendental numbers with $p$-adic continued fractions</title>
+      <link>https://oooto.github.io/portfolio/en/talk/201402/</link>
+      <pubDate>Thu, 13 Feb 2014 14:15:00 +0900</pubDate>
+      <guid>https://oooto.github.io/portfolio/en/talk/201402/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
