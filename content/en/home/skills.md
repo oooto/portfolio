@@ -36,7 +36,7 @@ subtitle = ""
   icon = "database"
   icon_pack = "fas"
   name = "Database"
-  description = "BigQuery / Theory of RDB"
+  description = "BigQuery"
 
 [[feature]]
   icon = "infinity"

@@ -31,7 +31,7 @@ date_format = "Jan 2006"
   company_url = "http://www.pas.tsukuba.ac.jp/"
   location = "Ibaraki"
   date_start = "2020-06-29"
-  date_end = "2020-06-29"
+  date_end = "2021-07-05"
   description = """
   Lecture about career path of doctoral course
   """
